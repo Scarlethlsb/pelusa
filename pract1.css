@@ -1,3 +1,21 @@
-h1{
-    
+#I, p{
+    font-style: inherit;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: cursive;
+    text-align: center;
+}
+
+
+
+.II{
+    color: rgb(176, 83, 83);
+    font: 1em sans-serif;
+    font-family: cursive;
+    justify-items: center;
+}
+.II > img {
+    width: 100%;
+    max-width: 300px;
+    animation-delay: inherit;
 }
